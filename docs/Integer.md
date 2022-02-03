@@ -8,7 +8,7 @@
 ### 1.2 Zahlenbereich des Integers
 ```java
     int a = Integer.MAX_VALUE;
-    // a = 2147483647;
+    // a = 2147483647
 
     int b = Integer.MIN_VALUE;
     // b = -2147483648
